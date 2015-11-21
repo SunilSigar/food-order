@@ -1,0 +1,113 @@
+
+* {margin: 0; padding: 0;
+
+}
+
+.rightmsg
+{
+margin-left:420px;
+float:right;
+position:absolute;
+margin-top:190px;
+border-radius:3px;
+border-style:none;
+width:550px;
+height:450px;
+background-color:#FAFAF0;
+font-family:Segoe UI;
+padding-top:10px;
+padding-left:10px;
+}
+
+#header {
+	width: 100%;
+	margin-top: -10px;
+	height: 670px;
+	font-family:harabara;
+	background-color:#50ACC2;
+	position: absolute;
+	
+}
+#header h1
+{
+font-size:55px;
+color:white;
+text-align:center;
+margin-left:35%;
+margin-top:40px;
+position:absolute;
+}
+#header h6
+{
+font-size:20px;
+color:white;
+text-align:center;
+margin-left:47%;
+margin-top:200px;
+position:absolute;
+float:right;
+border-style:none;
+font-family:Segoe UI;
+}
+#header h3
+{
+font-size:15px;
+color:white;
+text-align:center;
+margin-left:95%;
+margin-top:13px;
+position:absolute;
+}
+#header h4
+{
+font-size:25px;
+color:white;
+text-align:center;
+margin-left:47%;
+margin-top:80px;
+position:absolute;
+}
+#header_menu{
+margin-left:420px;
+margin-top:139px;
+font-family:Segoe UI;
+}
+#header_menu  ul
+{
+list-style-type:none;
+
+}
+#header_menu  ul li
+{
+display:inline;
+float:left;
+text-align:center;
+margin-right:3px;
+}
+#header_menu ul li a
+{
+
+display:block;
+text-align:center;
+border-radius:1px;
+margin-left:3px;
+padding-top:15px;
+width:553px;
+height:30px;
+font-family:Segoe UI;
+color:white;
+background-color:#50ACC2;
+text-decoration:none;
+font-weight:50;
+font-size:20px;
+}
+
+#header_menu a:hover{
+  background: #2580a2;
+  color: #fff;
+	text-shadow: 0 0 1px rgba(255, 255, 255, 0.7);
+	background: linear-gradient(#50acc2,#2580a2);
+	transition: all 0.15s;
+}
+
+//--------

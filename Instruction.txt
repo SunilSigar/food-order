@@ -1,0 +1,14 @@
+Step1: Impoart mydbb2.sql file in http://localhost/phpmyadmin/ 
+
+Step2: Run localhost/onlinefoodorder/welcome.html
+
+Step3: SignUp new user
+
+Step4: Login, give food order 
+
+Step5: Login as admin, diffault username and password is a, 1; update orders
+
+Step6: Login as user and see order details.
+
+Thank You
+
